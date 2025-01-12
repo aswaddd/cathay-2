@@ -1,61 +1,12 @@
-# MERN Template Project
+# Cargo Label Scanner App (Cathay Hackathon 2024)
 
-This is a template project for building a full-stack web application using the MERN stack (MongoDB, Express.js, React, Node.js).
+## Demo Link
+https://youtu.be/dpRQ7g8J8NA
 
-## Table of Contents
+## In app screenshots 
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+![WhatsApp Image 2024-11-07 at 09 17 10](https://github.com/user-attachments/assets/e35a1ec3-884d-45d3-9119-441896acdcc5)
 
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/MERN-template.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd MERN-template
-    ```
-3. Install server dependencies:
-    ```bash
-    cd server
-    npm install
-    ```
-4. Install client dependencies:
-    ```bash
-    cd ../client
-    npm install
-    ```
-
-## Usage
-
-1. Start the server:
-    ```bash
-    cd server
-    npm start
-    ```
-2. Start the client:
-    ```bash
-    cd ../client
-    npm start
-    ```
-3. Open your browser and navigate to `http://localhost:3000`.
-
-## Features
-
-- MongoDB for database
-- Express.js for server-side framework
-- React for client-side framework
-- Node.js for server environment
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+![WhatsApp Image 2024-11-07 at 09 17 10 (2)](https://github.com/user-attachments/assets/6b9f7cf0-3604-4a74-b20d-cad2505195ed)
+![WhatsApp Image 2024-11-07 at 09 17 10 (1)](https://github.com/user-attachments/assets/8a566b17-afc0-496f-bc6d-1db6305e0af8)
+![WhatsApp Image 2024-11-07 at 09 17 09](https://github.com/user-attachments/assets/37fe5607-2215-419f-b1e5-f0801c6a48d7)
